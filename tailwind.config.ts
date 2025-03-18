@@ -5,4 +5,11 @@ export default {
     './src/layouts/**/*.{vue,js,ts,tsx}',
     './src/pages/**/*.{vue,js,ts,tsx}',
   ],
+  fontFamily: {
+    sans: ['Urbanist', 'sans-serif'],
+  },
+  theme: {
+    extend: {},
+  },
+  plugins: [],
 }
